@@ -1,0 +1,22 @@
+{
+  "wheel_id": 693,
+  "structure": "umbrella",
+  "slug": "fencingcaboolture-110",
+  "project": "fencing-contractors-caboolture-budget-tips-6b90eb74926f51746986",
+  "parent_t1_ref": "fencingcaboolture-154",
+  "node_role": "feeder",
+  "money_target": "fencingcaboolture.com.au",
+  "primary_kw": "fencing contractors caboolture budget tips",
+  "intended_url": "https://sitesau.github.io/fencingcaboolture-110/",
+  "tier": "T2",
+  "writeback_nonce": "13c35adeedc9c172",
+  "links": [
+    {
+      "target_url": "http://fencing-contractors-caboolture-local-options-compared-f64b00ae3.s3-website-ap-southeast-2.amazonaws.com/index.html",
+      "anchor": "the main guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "generic"
+    }
+  ]
+}
